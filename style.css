@@ -1,0 +1,24 @@
+h1{
+  background-color: rgb(247, 28, 156);
+  margin: 0px;
+  padding-left: 550px;
+
+}
+
+p,
+li {
+  background-color: rgb(197, 169, 226);
+  color: rgb(247, 28, 156);
+  margin-right: 45px;
+  padding-left: 510px;
+}
+
+img{
+  padding: 10px;
+  margin-left: 72px;
+  background-color: rgb(247, 28, 156);
+}
+
+body{
+  background-color: black;
+}
